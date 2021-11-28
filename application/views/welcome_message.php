@@ -928,13 +928,13 @@
                     <div class="wthree-text p-3">
                         <label class="anim">
                             <input type="checkbox" class="checkbox" required="">
-                            <span>I Agree To The Terms & Conditions</span>
+                            <span style="padding:6px">I Agree To The Terms & Conditions</span>
                         </label>
                         <div class="clear"> </div>
                     </div>
                     <button name="submit" type="submit" class="form-control">Signup</button></br>
                 </form>
-                <p>Don't have an Account? <a href="#"> Login Now!</a></p>
+                <p>Don't have an Account? <a href="<?= site_url() ?>/Welcome/user_login"> Login Now!</a></p>
             </div>
         </div>
         <!-- copyright -->
