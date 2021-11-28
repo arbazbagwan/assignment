@@ -900,7 +900,7 @@
 <body>
     <!-- main -->
     <div class="main-w3layouts wrapper">
-        <h1>Creative SignUp Form</h1>
+        <h1>SignUp Form</h1>
         <div class="main-agileinfo">
             <div class="agileits-top">
                 <form method="POST" id="signupform">
@@ -925,21 +925,21 @@
                                         </div>
                                     </div>
                     
-                    <div class="wthree-text">
+                    <div class="wthree-text p-3">
                         <label class="anim">
                             <input type="checkbox" class="checkbox" required="">
                             <span>I Agree To The Terms & Conditions</span>
                         </label>
                         <div class="clear"> </div>
                     </div>
-                    <button name="submit" type="submit" class="form-control">Signup</button>
+                    <button name="submit" type="submit" class="form-control">Signup</button></br>
                 </form>
                 <p>Don't have an Account? <a href="#"> Login Now!</a></p>
             </div>
         </div>
         <!-- copyright -->
         <div class="colorlibcopy-agile">
-            <p>© 2018 Colorlib Signup Form. All rights reserved | Design by <a href="https://colorlib.com/" target="_blank">Colorlib</a></p>
+            <p>© 2021 Arbaz Signup Form. All rights reserved | Design by <a href="https://github.com/arbazbagwan" target="_blank">Arbaz</a></p>
         </div>
         <!-- //copyright -->
         <ul class="colorlib-bubbles">
