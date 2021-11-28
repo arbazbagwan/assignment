@@ -107,7 +107,7 @@
         audio,
         video {
             margin: 0;
-            padding: 0;
+            padding: 2;
             border: 0;
             font-size: 100%;
             font: inherit;
