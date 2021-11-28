@@ -902,7 +902,7 @@
 <body>
     <!-- main -->
     <div class="main-w3layouts wrapper">
-        <h1>SignUp Form</h1>
+        <h1>SignUp Form.</h1>
         <div class="main-agileinfo">
             <div class="agileits-top">
                 <form method="POST" id="signupform" class="form-group">
