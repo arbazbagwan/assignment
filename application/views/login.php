@@ -216,7 +216,7 @@
 						success: function(data) {
 							
 							var data = $.trim(data);
-							 alert(data);
+							 //alert(data);
                              if (data == 1) {
 								
 								setTimeout(function() {
